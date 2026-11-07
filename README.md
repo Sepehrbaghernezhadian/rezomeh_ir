@@ -12,6 +12,11 @@ A personal resume and portfolio website built with **Django** and **Python**, sh
 - 🔐 Django admin panel for managing content and messages
 - 📱 Responsive design
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
 ## 🛠 Tech Stack
 
 - **Backend:** Python, Django
@@ -47,15 +52,7 @@ Then open: `http://127.0.0.1:8000`
 
 Admin panel: `http://127.0.0.1:8000/admin`
 
-## 📸 Screenshots
-
-> Add screenshots of the home page, projects and contact form here.
-
 ## 📫 Contact
 
 - GitHub: [@sepehrbaghri13851386-rgb](https://github.com/sepehrbaghri13851386-rgb)
 - Website: https://sepehrbaghernezhadian.ir
-
-## 📄 License
-
-This project is open source and available under the MIT License.
